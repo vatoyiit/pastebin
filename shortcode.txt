@@ -1,0 +1,246 @@
+[av_section min_height='25' min_height_px='500px' padding='no-padding' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' custom_arrow_bg='' id='' color='main_color' background='bg_color' custom_bg='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='diagonal_tb' src='https://kriesi.at/themes/enfold-law/wp-content/uploads/sites/78/2018/05/hero2-bw.png' attachment='833' attachment_size='full' attach='scroll' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_enable='aviaTBoverlay_enable' overlay_opacity='0.6' overlay_color='#084a79' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0' av_uid='av-145nae']
+[av_one_full first min_height='' vertical_alignment='av-align-top' space='' custom_margin='aviaTBcustom_margin' margin='0px' margin_sync='true' link='' linktarget='' link_hover='' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-jgf3pjem']
+
+[av_heading tag='h2' padding='0' heading='Working Tirelessly To Protect And Defend Your Rights' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='5vw' subheading_active='subheading_above' subheading_size='25' custom_class='' admin_preview_bg='rgb(34, 34, 34)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='150px,,150px,' av_uid='av-37xou']
+Our Goal
+[/av_heading]
+
+[/av_one_full][av_one_third first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='no_margin' custom_margin='aviaTBcustom_margin' margin='0px,70px' link='' linktarget='' link_hover='opacity80' padding='40px' padding_sync='true' border='' border_color='#f2f2f2' radius='0px' radius_sync='true' background='bg_color' background_color='#ffffff' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-9wkhy']
+
+[av_heading tag='h2' padding='10' heading='Insurance Litigation' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='rgb(255, 255, 255)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='' av_uid='av-q9d9a'][/av_heading]
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgds8wgh' admin_preview_bg='rgb(255, 255, 255)']
+<p style="text-align: center;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula dolor.</p>
+[/av_textblock]
+
+[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' av_uid='av-jgf4q5kq' admin_preview_bg='']
+
+[av_button label='Learn more' link='page,824' link_target='' size='large' position='center' label_display='' icon_select='yes-right-icon' icon_hover='aviaTBicon_hover' icon='ue879' font='entypo-fontello' color='theme-color' custom_bg='#444444' custom_font='#ffffff' av_uid='av-jgf4ovnq' admin_preview_bg='']
+
+[/av_one_third][av_one_third min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='no_margin' custom_margin='aviaTBcustom_margin' margin='0px,70px' link='' linktarget='' link_hover='opacity80' padding='40px' padding_sync='true' border='' border_color='#f2f2f2' radius='0px' radius_sync='true' background='bg_gradient' background_color='#094978' background_gradient_color1='#094978' background_gradient_color2='#105e96' background_gradient_direction='diagonal_bt' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-9wkhy-64']
+
+[av_heading tag='h2' padding='10' heading='Real Property Litigation' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='rgb(34, 34, 34)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='' av_uid='av-kizh2'][/av_heading]
+
+[av_textblock size='' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgds8wgh-63' admin_preview_bg='rgb(255, 255, 255)']
+<p style="text-align: center;">Donec quam felis, ultricies nec eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+[/av_textblock]
+
+[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' av_uid='av-jgf4q5kq-62' admin_preview_bg='']
+
+[av_button label='Learn more' link='page,824' link_target='' size='large' position='center' label_display='' icon_select='yes-right-icon' icon_hover='aviaTBicon_hover' icon='ue879' font='entypo-fontello' color='custom' custom_bg='#ffffff' custom_font='#000000' av_uid='av-jgf4ovnq-61' admin_preview_bg='']
+
+[/av_one_third][av_one_third min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='no_margin' custom_margin='aviaTBcustom_margin' margin='0px,70px' link='' linktarget='' link_hover='opacity80' padding='40px' padding_sync='true' border='' border_color='#f2f2f2' radius='0px' radius_sync='true' background='bg_gradient' background_color='#072f4c' background_gradient_color1='#072f4c' background_gradient_color2='#0c4771' background_gradient_direction='diagonal_bt' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-9wkhy-60']
+
+[av_heading tag='h2' padding='10' heading='Construction Litigation' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='rgb(34, 34, 34)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='' av_uid='av-gnh3i'][/av_heading]
+
+[av_textblock size='' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgds8wgh-59' admin_preview_bg='rgb(255, 255, 255)']
+<p style="text-align: center;">In enim justo ut, imperdiet a, venenatis vitae, justo. Donec pede justo, fringilla vel eget, arcu.</p>
+[/av_textblock]
+
+[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' av_uid='av-jgf4q5kq-58' admin_preview_bg='']
+
+[av_button label='Learn more' link='page,824' link_target='' size='large' position='center' label_display='' icon_select='yes-right-icon' icon_hover='aviaTBicon_hover' icon='ue879' font='entypo-fontello' color='custom' custom_bg='#ffffff' custom_font='#000000' av_uid='av-jgf4ovnq-57' admin_preview_bg='']
+
+[/av_one_third]
+[/av_section]
+
+[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' custom_arrow_bg='' id='' color='main_color' background='bg_color' custom_bg='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0' av_uid='av-qet8u']
+
+[av_heading tag='h3' padding='0' heading='How we operate for you' color='' style='blockquote modern-quote modern-centered' custom_font='' size='50' subheading_active='' subheading_size='30' custom_class='' admin_preview_bg='rgb(255, 255, 255)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='0' av_uid='av-14g98e'][/av_heading]
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgfdunv8' admin_preview_bg='']
+<p style="text-align: center;">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+[/av_textblock]
+
+[av_hr class='custom' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='#d3d3d3' custom_margin_top='50px' custom_margin_bottom='65px' icon_select='yes' custom_icon_color='#072f4c' icon='uf119' font='justice' av_uid='av-jgf4q5kq-54' admin_preview_bg='rgb(255, 255, 255)']
+
+[av_one_third first min_height='' vertical_alignment='av-align-top' space='' custom_margin='aviaTBcustom_margin' margin='0px' margin_sync='true' link='' linktarget='' link_hover='opacity80' padding='0px' padding_sync='true' border='' border_color='#f2f2f2' radius='3px' radius_sync='true' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='diagonal_bt' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-9wkhy-56']
+
+[av_image src='https://kriesi.at/themes/enfold-law/wp-content/uploads/sites/78/2018/05/services1-845x321.jpg' attachment='828' attachment_size='entry_with_sidebar' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' copyright='' animation='no-animation' av_uid='av-jgqkifiw' admin_preview_bg=''][/av_image]
+
+[av_heading tag='h2' padding='10' heading='Get in touch by mail or phone' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='rgb(255, 255, 255)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='15,,,' av_uid='av-vuuce'][/av_heading]
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgds8wgh-55' admin_preview_bg='rgb(255, 255, 255)']
+<p style="text-align: center;">Donec quam felis, ultricies nec eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+[/av_textblock]
+
+[/av_one_third][av_one_third min_height='' vertical_alignment='av-align-top' space='' custom_margin='aviaTBcustom_margin' margin='0px' margin_sync='true' link='' linktarget='' link_hover='opacity80' padding='0px' padding_sync='true' border='' border_color='#f2f2f2' radius='3px' radius_sync='true' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='diagonal_bt' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-9wkhy-49']
+
+[av_image src='https://kriesi.at/themes/enfold-law/wp-content/uploads/sites/78/2018/05/services2-845x321.jpg' attachment='829' attachment_size='entry_with_sidebar' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' copyright='' animation='no-animation' av_uid='av-jgqkifiw-48' admin_preview_bg=''][/av_image]
+
+[av_heading tag='h2' padding='10' heading='Free personal consultation' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='rgb(255, 255, 255)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='15,,,' av_uid='av-qisri'][/av_heading]
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgds8wgh-47' admin_preview_bg='rgb(255, 255, 255)']
+<p style="text-align: center;">In enim justo ut, imperdiet a, venenatis vitae, justo. Donec pede justo, fringilla vel eget, arcu.</p>
+[/av_textblock]
+
+[/av_one_third][av_one_third min_height='' vertical_alignment='av-align-top' space='' custom_margin='aviaTBcustom_margin' margin='0px' margin_sync='true' link='' linktarget='' link_hover='opacity80' padding='0px' padding_sync='true' border='' border_color='#f2f2f2' radius='3px' radius_sync='true' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='diagonal_bt' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-9wkhy-46']
+
+[av_image src='https://kriesi.at/themes/enfold-law/wp-content/uploads/sites/78/2018/05/services3-845x321.jpg' attachment='830' attachment_size='entry_with_sidebar' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' copyright='' animation='no-animation' av_uid='av-jgqkifiw-45' admin_preview_bg=''][/av_image]
+
+[av_heading tag='h2' padding='10' heading='Starting your case' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='rgb(255, 255, 255)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='15,,,' av_uid='av-n5bb2'][/av_heading]
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgds8wgh-44' admin_preview_bg='rgb(255, 255, 255)']
+<p style="text-align: center;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula dolor.</p>
+[/av_textblock]
+
+[/av_one_third][av_hr class='custom' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='#d3d3d3' custom_margin_top='50px' custom_margin_bottom='65px' icon_select='yes' custom_icon_color='#072f4c' icon='uf119' font='justice' av_uid='av-jgf4q5kq-50' admin_preview_bg='rgb(255, 255, 255)']
+
+[av_one_half first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' link='' linktarget='' link_hover='opacity80' padding='0px' padding_sync='true' border='' border_color='#f2f2f2' radius='3px' radius_sync='true' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='diagonal_bt' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-9wkhy-43']
+
+[av_heading tag='h2' padding='10' heading='What happens next?' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='rgb(255, 255, 255)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='15,,,' av_uid='av-eagwu'][/av_heading]
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgds8wgh-42' admin_preview_bg='rgb(255, 255, 255)']
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis<strong> parturient montes</strong>, nascetur ridiculus mus.
+
+Donec quam felis, ultricies nec, pellentesque. Nulla <a href="#">consequat massa</a> quis enim.
+[/av_textblock]
+
+[/av_one_half][av_one_half min_height='' vertical_alignment='av-align-top' space='' custom_margin='aviaTBcustom_margin' margin='0px' margin_sync='true' link='' linktarget='' link_hover='opacity80' padding='0px' padding_sync='true' border='' border_color='#f2f2f2' radius='3px' radius_sync='true' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='diagonal_bt' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-9wkhy-40']
+
+[av_heading tag='h2' padding='10' heading='Going trough the verdict' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='rgb(255, 255, 255)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='15,,,' av_uid='av-abc4u'][/av_heading]
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgds8wgh-39' admin_preview_bg='rgb(255, 255, 255)']
+Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+Nullam dictum felis eu pede mollis pretium. Integer <strong>tincidunt</strong>. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+[/av_textblock]
+
+[/av_one_half][/av_section][av_section min_height='' min_height_px='500px' padding='default' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' custom_arrow_bg='' id='' color='main_color' background='bg_gradient' custom_bg='' background_gradient_color1='#094978' background_gradient_color2='#105e96' background_gradient_direction='diagonal_bt' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0' av_uid='av-qet8u-52']
+[av_one_full first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' margin='0px' margin_sync='true' link='' linktarget='' link_hover='' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='' av_uid='av-lsyke']
+
+[av_heading tag='h4' padding='30' heading='We are the best reviewed Criminal Defence Law Firm in the US. ' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='27' subheading_active='subheading_below' subheading_size='15' custom_class='' admin_preview_bg='rgb(34, 34, 34)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='' av_uid='av-6qb2m']
+If you want to be represented by the best law firm for your case then do not hesitate and write us a mail!
+[/av_heading]
+
+[av_button label='Get in touch' link='page,156' link_target='' size='large' position='center' label_display='' icon_select='yes-right-icon' icon_hover='aviaTBicon_hover' icon='ue879' font='entypo-fontello' color='custom' custom_bg='#ffffff' custom_font='#000000' av_uid='av-jgf4ovnq-53' admin_preview_bg='']
+
+[/av_one_full]
+[/av_section]
+
+[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' custom_arrow_bg='' id='' color='main_color' background='bg_color' custom_bg='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0' av_uid='av-qet8u-36']
+[av_heading tag='h3' padding='0' heading='Areas of expertise' color='' style='blockquote modern-quote modern-centered' custom_font='' size='50' subheading_active='' subheading_size='30' custom_class='' admin_preview_bg='rgb(255, 255, 255)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='0' av_uid='av-1bijjy'][/av_heading]
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgfdunv8-51' admin_preview_bg='']
+<p style="text-align: center;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Aenean commodo ligula eget dolor. Aenean massa.
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+[/av_textblock]
+
+[av_hr class='custom' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='#d3d3d3' custom_margin_top='50px' custom_margin_bottom='65px' icon_select='yes' custom_icon_color='#072f4c' icon='uf119' font='justice' av_uid='av-jgf4q5kq-41' admin_preview_bg='rgb(255, 255, 255)']
+
+[av_one_third first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' custom_margin='aviaTBcustom_margin' margin='0px' margin_sync='true' link='' linktarget='' link_hover='opacity80' padding='40px' padding_sync='true' border='' border_color='#f2f2f2' radius='3px' radius_sync='true' background='bg_color' background_color='#072f4c' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-9wkhy-38']
+
+[av_font_icon icon='uf100' font='justice' style='' caption='' link='' linktarget='' size='70px' position='center' color='#ffffff' av_uid='av-jgf8v45f' admin_preview_bg='rgb(34, 34, 34)'][/av_font_icon]
+
+[av_heading tag='h2' padding='10' heading='Insurance Litigation' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='rgb(34, 34, 34)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='25,,,' av_uid='av-43pza'][/av_heading]
+
+[av_textblock size='' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgds8wgh-37' admin_preview_bg='rgb(34, 34, 34)']
+<p style="text-align: center;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula dolor.</p>
+[/av_textblock]
+
+[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' av_uid='av-jgf4q5kq-32' admin_preview_bg='']
+
+[av_button label='Learn more' link='page,824' link_target='' size='large' position='center' label_display='' icon_select='yes-right-icon' icon_hover='aviaTBicon_hover' icon='ue879' font='entypo-fontello' color='custom' custom_bg='#ffffff' custom_font='#0a0a0a' av_uid='av-jgf4ovnq-34' admin_preview_bg='']
+
+[/av_one_third][av_one_third min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='no_margin' custom_margin='aviaTBcustom_margin' margin='0px,70px' link='' linktarget='' link_hover='opacity80' padding='40px' padding_sync='true' border='' border_color='#f2f2f2' radius='3px' radius_sync='true' background='bg_gradient' background_color='#094978' background_gradient_color1='#094978' background_gradient_color2='#105e96' background_gradient_direction='diagonal_bt' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-9wkhy-31']
+
+[av_font_icon icon='uf106' font='justice' style='' caption='' link='' linktarget='' size='70px' position='center' color='#ffffff' av_uid='av-jgf8v45f-30' admin_preview_bg='rgb(34, 34, 34)'][/av_font_icon]
+
+[av_heading tag='h2' padding='10' heading='Real Property Litigation' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='rgb(34, 34, 34)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='25,,,' av_uid='av-wnv3i'][/av_heading]
+
+[av_textblock size='' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgds8wgh-29' admin_preview_bg='rgb(255, 255, 255)']
+<p style="text-align: center;">Donec quam felis, ultricies nec eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+[/av_textblock]
+
+[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' av_uid='av-jgf4q5kq-28' admin_preview_bg='']
+
+[av_button label='Learn more' link='page,824' link_target='' size='large' position='center' label_display='' icon_select='yes-right-icon' icon_hover='aviaTBicon_hover' icon='ue879' font='entypo-fontello' color='custom' custom_bg='#ffffff' custom_font='#000000' av_uid='av-jgf4ovnq-27' admin_preview_bg='']
+
+[/av_one_third][av_one_third min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='no_margin' custom_margin='aviaTBcustom_margin' margin='0px,70px' link='' linktarget='' link_hover='opacity80' padding='40px' padding_sync='true' border='' border_color='#f2f2f2' radius='3px' radius_sync='true' background='bg_color' background_color='#072f4c' background_gradient_color1='#072f4c' background_gradient_color2='#0c4771' background_gradient_direction='diagonal_bt' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-9wkhy-26']
+
+[av_font_icon icon='uf10b' font='justice' style='' caption='' link='' linktarget='' size='70px' position='center' color='#ffffff' av_uid='av-jgf8v45f-25' admin_preview_bg='rgb(34, 34, 34)'][/av_font_icon]
+
+[av_heading tag='h2' padding='10' heading='Construction Litigation' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='rgb(34, 34, 34)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='25,,,' av_uid='av-ol2qe'][/av_heading]
+
+[av_textblock size='' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgds8wgh-24' admin_preview_bg='rgb(255, 255, 255)']
+<p style="text-align: center;">In enim justo ut, imperdiet a, venenatis vitae, justo. Donec pede justo, fringilla vel eget, arcu.</p>
+[/av_textblock]
+
+[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' av_uid='av-jgf4q5kq-23' admin_preview_bg='']
+
+[av_button label='Learn more' link='page,824' link_target='' size='large' position='center' label_display='' icon_select='yes-right-icon' icon_hover='aviaTBicon_hover' icon='ue879' font='entypo-fontello' color='custom' custom_bg='#ffffff' custom_font='#000000' av_uid='av-jgf4ovnq-22' admin_preview_bg='']
+
+[/av_one_third][av_one_third first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' custom_margin='aviaTBcustom_margin' margin='6%,0' link='' linktarget='' link_hover='opacity80' padding='40px' padding_sync='true' border='' border_color='#f2f2f2' radius='3px' radius_sync='true' background='bg_gradient' background_color='#094978' background_gradient_color1='#094978' background_gradient_color2='#105e96' background_gradient_direction='diagonal_bt' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-9wkhy-21']
+
+[av_font_icon icon='uf120' font='justice' style='' caption='' link='' linktarget='' size='70px' position='center' color='#ffffff' av_uid='av-jgf8v45f-20' admin_preview_bg='rgb(34, 34, 34)'][/av_font_icon]
+
+[av_heading tag='h2' padding='10' heading='Traffic offense' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='rgb(34, 34, 34)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='25,,,' av_uid='av-1vsny'][/av_heading]
+
+[av_textblock size='' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgds8wgh-19' admin_preview_bg='rgb(255, 255, 255)']
+<p style="text-align: center;">Donec quam felis, ultricies nec eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+[/av_textblock]
+
+[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' av_uid='av-jgf4q5kq-18' admin_preview_bg='']
+
+[av_button label='Learn more' link='page,824' link_target='' size='large' position='center' label_display='' icon_select='yes-right-icon' icon_hover='aviaTBicon_hover' icon='ue879' font='entypo-fontello' color='custom' custom_bg='#ffffff' custom_font='#000000' av_uid='av-jgf4ovnq-17' admin_preview_bg='']
+
+[/av_one_third][av_one_third min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='no_margin' custom_margin='aviaTBcustom_margin' margin='0px,70px' link='' linktarget='' link_hover='opacity80' padding='40px' padding_sync='true' border='' border_color='#f2f2f2' radius='3px' radius_sync='true' background='bg_color' background_color='#072f4c' background_gradient_color1='#072f4c' background_gradient_color2='#0c4771' background_gradient_direction='diagonal_bt' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-9wkhy-16']
+
+[av_font_icon icon='uf119' font='justice' style='' caption='' link='' linktarget='' size='70px' position='center' color='#ffffff' av_uid='av-jgf8v45f-15' admin_preview_bg='rgb(34, 34, 34)'][/av_font_icon]
+
+[av_heading tag='h2' padding='10' heading='Citation' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='rgb(34, 34, 34)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='25,,,' av_uid='av-hcmym'][/av_heading]
+
+[av_textblock size='' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgds8wgh-14' admin_preview_bg='rgb(255, 255, 255)']
+<p style="text-align: center;">In enim justo ut, imperdiet a, venenatis vitae, justo. Donec pede justo, fringilla vel eget, arcu.</p>
+[/av_textblock]
+
+[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' av_uid='av-jgf4q5kq-13' admin_preview_bg='']
+
+[av_button label='Learn more' link='page,824' link_target='' size='large' position='center' label_display='' icon_select='yes-right-icon' icon_hover='aviaTBicon_hover' icon='ue879' font='entypo-fontello' color='custom' custom_bg='#ffffff' custom_font='#000000' av_uid='av-jgf4ovnq-12' admin_preview_bg='']
+
+[/av_one_third][av_one_third min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='no_margin' custom_margin='aviaTBcustom_margin' margin='0px,70px' link='' linktarget='' link_hover='opacity80' padding='40px' padding_sync='true' border='' border_color='#f2f2f2' radius='3px' radius_sync='true' background='bg_gradient' background_color='#094978' background_gradient_color1='#094978' background_gradient_color2='#105e96' background_gradient_direction='diagonal_bt' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='left-to-right' mobile_breaking='' mobile_display='' av_uid='av-9wkhy-11']
+
+[av_font_icon icon='uf114' font='justice' style='' caption='' link='' linktarget='' size='70px' position='center' color='#ffffff' av_uid='av-jgf8v45f-10' admin_preview_bg='rgb(34, 34, 34)'][/av_font_icon]
+
+[av_heading tag='h2' padding='10' heading='Jury Selection' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='rgb(34, 34, 34)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' margin='25,,,' av_uid='av-13pv2'][/av_heading]
+
+[av_textblock size='' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' av_uid='av-jgds8wgh-9' admin_preview_bg='rgb(255, 255, 255)']
+<p style="text-align: center;">Donec quam felis, ultricies nec eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+[/av_textblock]
+
+[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' av_uid='av-jgf4q5kq-8' admin_preview_bg='']
+
+[av_button label='Learn more' link='page,824' link_target='' size='large' position='center' label_display='' icon_select='yes-right-icon' icon_hover='aviaTBicon_hover' icon='ue879' font='entypo-fontello' color='custom' custom_bg='#ffffff' custom_font='#000000' av_uid='av-jgf4ovnq-7' admin_preview_bg='']
+
+[/av_one_third]
+[/av_section]
+
+[av_section min_height='' min_height_px='500px' padding='default' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' custom_arrow_bg='' id='' color='main_color' background='bg_gradient' custom_bg='' background_gradient_color1='#094978' background_gradient_color2='#105e96' background_gradient_direction='diagonal_bt' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0' av_uid='av-qet8u-33']
+[av_one_fourth first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' margin='0px' margin_sync='true' link='' linktarget='' link_hover='' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='' av_uid='av-lsyke-35']
+
+[av_animated_numbers number='10,000+' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='' link='' linktarget='no' color='font-light' custom_color='#444444' av_uid='av-2yydy' admin_preview_bg='rgb(34, 34, 34)']
+Cases served
+[/av_animated_numbers]
+
+[/av_one_fourth][av_one_fourth min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' margin='0px' margin_sync='true' link='' linktarget='' link_hover='' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='' av_uid='av-lsyke-6']
+
+[av_animated_numbers number='65+' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='' link='' linktarget='no' color='font-light' custom_color='#444444' av_uid='av-2yydy-5' admin_preview_bg='rgb(34, 34, 34)']
+Years of experience
+[/av_animated_numbers]
+
+[/av_one_fourth][av_one_fourth min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' margin='0px' margin_sync='true' link='' linktarget='' link_hover='' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='' av_uid='av-lsyke-4']
+
+[av_animated_numbers number='24/7' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='' link='' linktarget='no' color='font-light' custom_color='#444444' av_uid='av-2yydy-3' admin_preview_bg='rgb(34, 34, 34)']
+Availability & Support
+[/av_animated_numbers]
+
+[/av_one_fourth][av_one_fourth min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' margin='0px' margin_sync='true' link='' linktarget='' link_hover='' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background='bg_color' background_color='' background_gradient_color1='' background_gradient_color2='' background_gradient_direction='vertical' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='' av_uid='av-lsyke-2']
+
+[av_animated_numbers number='100.000.000$' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='' link='' linktarget='no' color='font-light' custom_color='#444444' av_uid='av-2yydy-1' admin_preview_bg='rgb(34, 34, 34)']
+Earned for our clients
+[/av_animated_numbers]
+
+[/av_one_fourth]
+[/av_section]
